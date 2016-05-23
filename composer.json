@@ -1,0 +1,14 @@
+{
+    "name": "burakcancelik/bilgisistemi",
+    "description": "Bilgi Sistemi Module",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Burak Can Celik",
+            "email": "burakcancelik@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
