@@ -1,6 +1,6 @@
 <?php
 
-namespace frontend\modules\BilgiSistemi\models;
+namespace burakcancelik\bilgisistemi\models;
 
 use Yii;
 
