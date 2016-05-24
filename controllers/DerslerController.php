@@ -1,6 +1,6 @@
 <?php
 
-namespace frontend\modules\BilgiSistemi\controllers;
+namespace burakcancelik\bilgisistemi\controllers;
 
 use Yii;
 use frontend\modules\BilgiSistemi\models\Dersler;
