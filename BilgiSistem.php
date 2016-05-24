@@ -1,6 +1,6 @@
 <?php
 
-namespace frontend\modules\BilgiSistemi;
+namespace burakcancelik\bilgisistemi;
 
 class BilgiSistem extends \yii\base\Module
 {
