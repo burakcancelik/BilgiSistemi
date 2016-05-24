@@ -1,6 +1,6 @@
 <?php
 
-namespace frontend\modules\BilgiSistemi\controllers;
+namespace burakcancelik\bilgisistemi\controllers;
 
 use yii\web\Controller;
 
